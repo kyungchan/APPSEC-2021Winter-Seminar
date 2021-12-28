@@ -2,7 +2,6 @@
 1. ~~12/28 기초자바스크립트 (함수, 변수, Lexical Scope, Call by value, String다루기, JSON다루기 ) (취소)~~
 2. 1/4 1주차 + 고급자바스크립트 (함수형프로그래밍 (forEach, map,foreach, filter, ...), Promise, async, 이벤트루프) (기존 1,2주 통합)
 3. 1/11 GIT 세미나 (Commit, Branch, Merge, Conflict Stash, Revert, Reset) : SourceTree 툴 사용을 중심으로 실습 + 기초 Vanilla HTML, CSS, JS, 크롬 개발자도구 사용 (기존 3,4주 통합)
-4. 1/18 기초 Vanilla HTML, CSS, JS, 크롬 개발자도구 사용
 5. 1/18 VUE 설치(VS Code, Node, MongoDB) 및 기초이론 (MVVM, SPA, Responsive Web, Vuetify, Express, NPM)
     1. 설치파일은 Github에 첨부 것
 6. 1/25 Frontend, Backend 실습1 (게시판만들기)
